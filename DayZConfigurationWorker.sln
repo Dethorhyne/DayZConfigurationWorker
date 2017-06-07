@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayZConfigurationWorker", "DayZConfigurationWorker\DayZConfigurationWorker.csproj", "{B22AE1C6-1226-4171-BE34-A0FD7F73F883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigWorkerTest", "ConfigWorkerTest\ConfigWorkerTest.csproj", "{275E185B-97C4-4CB8-8712-BCA02272A976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayZ Name Changer", "DayZ Name Changer\DayZ Name Changer.csproj", "{569EC24D-2CC3-4849-8895-0E5CCD0883F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B22AE1C6-1226-4171-BE34-A0FD7F73F883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22AE1C6-1226-4171-BE34-A0FD7F73F883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22AE1C6-1226-4171-BE34-A0FD7F73F883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22AE1C6-1226-4171-BE34-A0FD7F73F883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275E185B-97C4-4CB8-8712-BCA02272A976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275E185B-97C4-4CB8-8712-BCA02272A976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275E185B-97C4-4CB8-8712-BCA02272A976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275E185B-97C4-4CB8-8712-BCA02272A976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569EC24D-2CC3-4849-8895-0E5CCD0883F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569EC24D-2CC3-4849-8895-0E5CCD0883F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569EC24D-2CC3-4849-8895-0E5CCD0883F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569EC24D-2CC3-4849-8895-0E5CCD0883F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
